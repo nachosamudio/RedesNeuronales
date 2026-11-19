@@ -10,6 +10,7 @@ Repositorio con los trabajos prácticos de la materia **Redes Neuronales / Deep 
 │   └── 01_Softmax_20Newsgroups (1).ipynb      # Regresión Softmax, preprocesamiento NLP y búsqueda con Optuna CORREGIDO
 ├── TP2/
 │   └── 02_MLP_20Newsgroups.ipynb          # Perceptrón Multicapa (MLP), funciones de activación, pruning y comparación con Softmax
+│   └── 02_MLP_20Newsgroups (1).ipynb          # Perceptrón Multicapa (MLP), funciones de activación, pruning y comparación con Softmax CORREGIDO
 ├── TP3/
 │   └── 03_Regularizacion_MLP.ipynb        # Estudio comparativo de L1, L2, Dropout y Batch Normalization
 ├── requirements.txt                       # Dependencias de Python necesarias para reproducir los notebooks
